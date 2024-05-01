@@ -1,4 +1,4 @@
-# 트랜잭션 격리수준(Transaction Isolation Level)
+# ⭐️트랜잭션 격리수준(Transaction Isolation Level)
 
 ### 여러 트랜잭션이 동시에 처리될 때, 특정 트랜잭션이 다른 트랜잭션에서 변경하거나 조회하는 데이터를 허용하도록 하는 수준
 
