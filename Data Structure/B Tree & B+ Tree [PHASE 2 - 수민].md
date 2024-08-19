@@ -36,7 +36,7 @@
 
 [B-트리(B-Tree)란? B트리 탐색, 삽입, 삭제 과정](https://velog.io/@chanyoung1998/B트리)
 
-### B+ TREE
+## B+ TREE
 
 b tree의 향상된 버전이다.
 
